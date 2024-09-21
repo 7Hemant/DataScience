@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Conda environment files
+*.conda
+*.env
+*.yml
+env/
+venv/
+.venv/
+bin/
+lib/
+lib64/
+include/
+pyvenv.cfg
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Jupyter Notebook specific files
+*.nbconvert.ipynb
+*.nb.html
+*.nb.py
+*.nbdata
+
+# Jupyter notebook output artifacts
+*.log
+*.out
+*.err
+*.data
+
+# Local directories
+.local/
+
+# VS Code directories
+.vscode/
